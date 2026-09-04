@@ -1,0 +1,9 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+data/raw/
+*.duckdb
+*.duckdb.wal
+Thumbs.db
+.DS_Store
